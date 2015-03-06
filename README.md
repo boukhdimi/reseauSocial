@@ -30,7 +30,7 @@
 ###Prerequisite
 Node.js
 npm
-	###Run commands
-	      ‘npm install’
-	      ‘grunt’
+###Run commands
+‘npm install’
+‘grunt’
 ##License
