@@ -4,9 +4,9 @@
 ##To start quickly :
 
     `cd swear-box` 
-Development phase 
+##Development phase 
     `activator -Dconfig.file=conf/dev.conf run`  
-Production phase
+##Production phase
    `activator  run`
 ##To run unit tests :
 `activator  test`
